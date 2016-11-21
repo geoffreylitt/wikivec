@@ -1,3 +1,5 @@
+The goal here is to create a bot that can automatically [wikirace](https://en.wikipedia.org/wiki/Wikipedia:Wikirace), using nothing but local knowledge of word meanings based on word embeddings.
+
 # Todos (in rough priority)
 
 - [] use NMatrix to make it faster (will speed up iteration)
